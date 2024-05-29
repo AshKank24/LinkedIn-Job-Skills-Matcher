@@ -24,7 +24,7 @@ This project automates the process of extracting and matching skills between job
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/linkedin-job-skills-matcher.git
+    git clone https://github.com/ashirwadk24/linkedin-job-skills-matcher.git
     cd linkedin-job-skills-matcher
     ```
 
