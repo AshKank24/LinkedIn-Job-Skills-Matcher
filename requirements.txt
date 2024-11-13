@@ -3,3 +3,4 @@ beautifulsoup4
 nltk
 sentence-transformers
 scikit-learn
+spacy
